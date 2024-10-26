@@ -1,2 +1,2 @@
-# DL24
-Exercises for DL24
+# Advpt
+Project for Advance programming techniques
